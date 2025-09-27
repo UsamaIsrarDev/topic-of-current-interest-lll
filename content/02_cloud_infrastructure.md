@@ -1,6 +1,6 @@
-## Module 2: Cloud Infrastructure & Virtualization
+## Cloud Infrastructure & Virtualization
 
-### **1. Cloud Data Centers & Architecture**
+### Cloud Data Centers & Architecture
 
 - **Definition:** Cloud data centers are large-scale facilities that house physical servers, networking equipment, and storage resources. They are designed for redundancy, security, and scalability.
 - **Key Features:** Cooling systems, backup power (UPS), disaster recovery, high-speed networking.
@@ -8,7 +8,7 @@
 
 ---
 
-### **2. Networking in the Cloud**
+### Networking in the Cloud
 
 - **Virtual Private Cloud (VPC):** Isolated cloud network for an organization.
 - **Load Balancers:** Distribute traffic among multiple servers.
@@ -17,7 +17,7 @@
 
 ---
 
-### **3. Storage in the Cloud**
+### Storage in the Cloud
 
 - **Block Storage:** Like hard drives (e.g., AWS EBS). Best for databases.
 - **File Storage:** Network-based file systems (e.g., Amazon EFS).
@@ -26,7 +26,7 @@
 
 ---
 
-### **4. Virtualization Technologies**
+### Virtualization Technologies
 
 - **Hypervisors:** Software that creates and manages virtual machines.
   - _Examples:_ VMware ESXi, Microsoft Hyper-V, KVM.
@@ -35,7 +35,7 @@
 
 ---
 
-### **5. Containers (Docker, Podman)**
+### Containers (Docker, Podman)
 
 - **Definition:** Lightweight, portable units that package code, dependencies, and libraries.
 - **Benefits:** Faster startup, less resource-heavy compared to VMs.
@@ -43,13 +43,8 @@
 
 ---
 
-### **6. Container Orchestration (Kubernetes Basics)**
+### Container Orchestration (Kubernetes Basics)
 
 - **Definition:** Tool for automating deployment, scaling, and management of containers.
 - **Features:** Load balancing, self-healing, auto-scaling.
 - **Example:** **Spotify** uses Kubernetes to manage thousands of containers running its music recommendation system.
-
----
-
-✅ **Summary:**  
-Module 2 explains the **backbone of cloud computing**—data centers, networking, storage, virtualization, and container orchestration. These enable businesses to scale globally, like **Netflix, Uber, and Spotify** do today.
