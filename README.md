@@ -1,8 +1,6 @@
-# 📘 Advanced Cloud Computing
+# Advanced Cloud Computing
 
-### **Table of Contents**
-
-#### **Module 1: Introduction to Cloud Computing (Basics)**
+#### Introduction to Cloud Computing (Basics)
 
 1. What is Cloud Computing?
 2. Characteristics of Cloud Computing (On-demand, Scalable, Measured, etc.)
@@ -24,7 +22,7 @@
 
 ---
 
-#### **Module 2: Cloud Infrastructure & Virtualization**
+#### Cloud Infrastructure & Virtualization
 
 1. Cloud Data Centers & Architecture
 2. Networking in the Cloud (VPCs, Load Balancers, Firewalls)
@@ -38,7 +36,7 @@
 
 ---
 
-#### **Module 3: Cloud Providers & Services**
+#### Cloud Providers & Services
 
 1. Amazon Web Services (AWS) Overview
 2. Microsoft Azure Overview
@@ -48,7 +46,7 @@
 
 ---
 
-#### **Module 4: Cloud Security & Compliance**
+#### Cloud Security & Compliance
 
 1. Identity & Access Management (IAM)
 2. Encryption in Cloud (At-rest & In-transit)
@@ -58,7 +56,7 @@
 
 ---
 
-#### **Module 5: Cloud Application Development**
+#### Cloud Application Development
 
 1. Cloud-Native Applications
 2. Microservices Architecture
@@ -68,7 +66,7 @@
 
 ---
 
-#### **Module 6: Cloud Storage & Databases**
+#### Cloud Storage & Databases
 
 1. Cloud Storage Services (S3, Azure Blob, GCP Storage)
 2. Relational Databases in Cloud (RDS, Cloud SQL, Azure SQL)
@@ -78,7 +76,7 @@
 
 ---
 
-#### **Module 7: Cloud Networking & Edge Computing**
+#### Cloud Networking & Edge Computing
 
 1. Cloud Networking Basics
 2. Content Delivery Networks (CDNs – CloudFront, Azure CDN)
@@ -88,7 +86,7 @@
 
 ---
 
-#### **Module 8: Cloud Automation & Management**
+#### Cloud Automation & Management
 
 1. Infrastructure as Code (IaC – Terraform, CloudFormation, ARM Templates)
 2. Monitoring & Logging (CloudWatch, Azure Monitor, Stackdriver)
@@ -98,7 +96,7 @@
 
 ---
 
-#### **Module 9: Advanced Topics in Cloud Computing**
+#### Advanced Topics in Cloud Computing
 
 1. Cloud AI & Machine Learning Services (SageMaker, Azure AI, Vertex AI)
 2. Cloud for Blockchain & Web 3.0
@@ -108,14 +106,10 @@
 
 ---
 
-#### **Module 10: Case Studies & Projects**
+#### Case Studies & Projects
 
 1. Cloud Migration Strategy
 2. Real-World Cloud Architecture Design
 3. Deploying a Full-Stack Application in Cloud
 4. Disaster Recovery Simulation
 5. Final Project – Cloud Solution for a Real Industry Problem
-
----
-
-✅ By following this course outline, you’ll progress from **basic fundamentals → advanced industry applications** of cloud computing.
