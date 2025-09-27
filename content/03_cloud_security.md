@@ -1,6 +1,6 @@
-## Module 3: Cloud Security & Compliance
+## Cloud Security & Compliance
 
-### **1. Importance of Cloud Security**
+### Importance of Cloud Security
 
 - Cloud platforms host **sensitive data** (personal info, banking, healthcare).
 - Without security, risks include **data breaches, financial loss, and reputational damage**.
@@ -8,7 +8,7 @@
 
 ---
 
-### **2. Cloud Security Threats**
+### Cloud Security Threats
 
 - **Data Breaches** – Unauthorized access (e.g., hackers stealing customer info).
 - **DDoS Attacks** – Flooding servers to make apps unavailable.
@@ -17,7 +17,7 @@
 
 ---
 
-### **3. Shared Responsibility Model**
+### Shared Responsibility Model
 
 - **Cloud Provider (AWS, Azure, GCP):** Secures infrastructure (data centers, hardware, networking).
 - **Customer (You/Company):** Secures applications, data, identity access.
@@ -25,7 +25,7 @@
 
 ---
 
-### **4. Identity & Access Management (IAM)**
+### Identity & Access Management (IAM)
 
 - **Definition:** Controlling “who can access what.”
 - **Features:** Multi-factor authentication (MFA), Role-based access control (RBAC).
@@ -33,7 +33,7 @@
 
 ---
 
-### **5. Encryption & Data Protection**
+### Encryption & Data Protection
 
 - **At Rest:** Data stored securely in disks/databases (e.g., AES-256).
 - **In Transit:** Data encrypted while moving (e.g., TLS/SSL).
@@ -41,14 +41,9 @@
 
 ---
 
-### **6. Compliance & Regulations**
+### Compliance & Regulations
 
 - **GDPR (Europe):** Protects user privacy and data rights.
 - **HIPAA (USA):** Ensures patient data confidentiality in healthcare.
 - **PCI-DSS:** For companies handling credit card transactions.
 - **Example:** **PayPal** must follow PCI-DSS to process your online payments securely.
-
----
-
-✅ **Summary:**  
-Module 3 covers **how to protect cloud systems** from threats, ensure proper access, encrypt data, and follow regulations. Real-world cases like **Capital One, GitHub, and PayPal** show why cloud security is non-negotiable.
