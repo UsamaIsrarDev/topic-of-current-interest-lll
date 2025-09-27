@@ -1,16 +1,15 @@
-## 🔹 Module 1: Introduction to Cloud Computing (Basics)
+## Introduction to Cloud Computing (Basics)
 
-### **1. What is Cloud Computing?**
+### What is Cloud Computing?
 
-**Definition:**
 Cloud computing is the delivery of computing resources—such as servers, storage, databases, networking, software, and analytics—over the internet (“the cloud”) on a pay-as-you-go basis.
 
-**Real-World Example:**
+Example ;
 Instead of buying expensive servers, Netflix uses **AWS Cloud** to stream movies to millions of users worldwide. When traffic spikes (like during the release of a new series), Netflix instantly scales up cloud servers.
 
 ---
 
-### **2. Characteristics of Cloud Computing**
+### Characteristics of Cloud Computing
 
 1. **On-demand self-service** – You can rent resources anytime without human interaction.
 
@@ -34,7 +33,7 @@ Instead of buying expensive servers, Netflix uses **AWS Cloud** to stream movies
 
 ---
 
-### **3. Cloud Deployment Models**
+### Cloud Deployment Models
 
 1. **Public Cloud**
 
@@ -58,7 +57,7 @@ Instead of buying expensive servers, Netflix uses **AWS Cloud** to stream movies
 
 ---
 
-### **4. Cloud Service Models**
+### Cloud Service Models
 
 1. **IaaS (Infrastructure as a Service)**
 
@@ -82,7 +81,7 @@ Instead of buying expensive servers, Netflix uses **AWS Cloud** to stream movies
 
 ---
 
-### **5. Virtualization Basics (VMs vs Containers)**
+### Virtualization Basics (VMs vs Containers)
 
 1. **Virtual Machines (VMs)**
 
