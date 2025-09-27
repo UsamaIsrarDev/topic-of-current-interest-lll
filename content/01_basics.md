@@ -2,9 +2,9 @@
 
 ### What is Cloud Computing?
 
-Cloud computing is the delivery of computing resources—such as servers, storage, databases, networking, software, and analytics—over the internet (“the cloud”) on a pay-as-you-go basis.
+Cloud computing is the delivery of computing resources, such as servers, storage, databases, networking, software, and analytics, over the internet (“the cloud”) on a pay-as-you-go basis.
 
-Example ;
+_Example_ ;
 Instead of buying expensive servers, Netflix uses **AWS Cloud** to stream movies to millions of users worldwide. When traffic spikes (like during the release of a new series), Netflix instantly scales up cloud servers.
 
 ---
